@@ -2,3 +2,5 @@
 .cfg
 raw-img
 data
+.env
+/model_cache
